@@ -1,0 +1,330 @@
+* {
+    margin: 0%;
+    padding-left: 0%;
+}
+
+.container {
+    width: 90%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav1 {
+    max-width: 100%;
+    height: 50px;
+    display: flex;
+    gap: 530px;
+    align-items: center;
+}
+
+.logo {
+    padding-left: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans';
+
+}
+
+.second,
+.third {
+    display: flex;
+    align-items: center;
+}
+
+.search-container {
+    width: 450px;
+    height: 30px;
+    background-color: rgb(245, 244, 244);
+    position: relative;
+    border-radius: 5px;
+
+}
+
+.search-list {
+    position: absolute;
+    padding-left: 10px;
+    padding-top: 5px;
+
+}
+
+.search {
+    position: absolute;
+    left: 150px;
+    padding-top: 5px;
+}
+
+.search input {
+    color: rgb(6, 6, 6);
+    background-color: transparent;
+    border-color: transparent;
+    padding-right: 90px;
+}
+
+.category {
+    color: rgb(101, 100, 100);
+    font-size: 13px;
+    background-color: transparent;
+    padding-right: 25px;
+    border-color: transparent;
+    border-right: 2px solid gray;
+}
+
+.nav-2 {
+    background-color: black;
+    height: 30px;
+    display: flex;
+    align-items: center;
+
+}
+
+.browse {
+    padding-left: 10px;
+}
+
+.browser {
+    padding-left: 10px;
+}
+
+.contact {
+    font-size: 14px;
+    color: #fff;
+    padding-left: 20px;
+}
+
+.login a {
+    color: #fff;
+    font-size: 14px;
+    padding-left: 350px;
+}
+
+select {
+    background-color: transparent;
+    color: #fff;
+    border: none;
+}
+
+.nav-img {
+    margin-left: 40px;
+    display: flex;
+    gap: 30px;
+}
+
+.second,
+.second-img {
+    gap: 25px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+
+
+
+.h2 {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+
+.third {
+    margin-left: 130px;
+    gap: 15px;
+
+}
+
+.all {
+    color: white;
+    background-color: black;
+    border: none;
+    width: 70px;
+    border-radius: 3px;
+    height: 30px;
+}
+
+.others {
+    color: black;
+    height: 30px;
+    width: 120px;
+    border-radius: 3px;
+    border-color: grey;
+
+}
+
+.fourth,
+.fifth {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.black {
+    color: white;
+    background-color: black;
+}
+
+.img1 {
+    width: 320px;
+}
+
+.load {
+    margin-left: 500px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    height: 30px;
+    width: 160px;
+
+}
+
+.border {
+    border-bottom: 1px solid;
+    margin-top: 30px;
+}
+
+.sixth {
+    display: flex;
+    align-items: center;
+    margin-top: 45px;
+    margin-bottom: 35px;
+    gap: 165px;
+    margin-left: 95px;
+}
+
+.para {
+    text-align: center;
+}
+
+.seventh {
+    display: flex;
+    margin-top: 90px;
+    background-color: whitesmoke;
+
+}
+
+.big-content {
+    text-align: center;
+    margin-left: 140px;
+    margin-top: 155px;
+}
+
+.sales {
+    margin-bottom: 5px;
+    font-weight: bold;
+
+}
+
+.until {
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.big-btn {
+    margin-top: 30px;
+    background-color: black;
+    color: #fff;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+}
+
+.eighth {
+    text-align: center;
+
+}
+
+.cus {
+    text-decoration: underline;
+    margin-top: 60px;
+    margin-bottom: 8px;
+    font-weight: normal;
+}
+
+.para2 {
+    font-style: italic;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bolder;
+    font-style: oblique;
+    margin-top: 8px;
+    margin-bottom: 5px;
+}
+
+.insta {
+    margin-top: 70px;
+    text-decoration: underline;
+    margin-bottom: 40px;
+}
+
+.nineth {
+    margin-top: 30px;
+    margin-left: 50px;
+
+}
+
+.nineth,
+.top,
+.bottom {
+    display: flex;
+}
+
+.left,
+.right,
+.image1,
+.image {
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.tenth {
+    display: flex;
+    margin-top: 60px;
+    color: #fff;
+    background-color: black;
+}
+.about{
+    margin-right: 50px;
+    padding-left: 50px;
+margin-top: 30px;
+margin-left: 80px;
+}
+.last{
+ margin-top: 13px;
+}
+
+
+.Company,
+.Customer-care,
+.Terms-policies,
+.Follow-Us {
+    margin:25px
+}
+.end{
+    background-color:black;
+    color:white;
+    display: flex;
+
+}
+.end-content{
+    margin: 30px;
+}
+.end-content,.end-content2{
+    display: flex;
+}
+.end-content2{
+    margin-left: 650px;
+    gap: 20px;
+    margin-top:30px;
+}
+.en,.usd{
+    text-decoration: underline;
+    
+}
